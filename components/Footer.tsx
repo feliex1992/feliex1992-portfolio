@@ -32,7 +32,7 @@ const Footer = () => {
         <p className="text-white-200 md:mt-10 my-5 text-center">
           Atau lihat lebih detail mengenai saya:
         </p>
-        <a href="/jafar-pahrudin-cv.docx" download>
+        <a href="/JAFAR PAHRUDIN Resume.pdf" download>
           <MagicButton
             title="Download CV"
             icon={<FaDownload />}
